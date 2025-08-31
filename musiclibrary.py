@@ -1,5 +1,7 @@
+#In this file the music files are stored with their link you can add as muuch you can
 music = {
-    "hope" : "https://www.youtube.com/watch?v=66Hc7kfc7DA",
-    "elephant" : "https://www.youtube.com/watch?v=j_FP1s3d70A&list=RDMMj_FP1s3d70A&start_radio=1",
-    "help" : "https://www.youtube.com/watch?v=2j8ayRXMkXU&list=RDMMj_FP1s3d70A&index=2"
+    "hope" : "https://youtu.be/KyAcMpQUY5s?si=Bz6NZiRe96Y0msm4",
+    "skyfall" : "https://youtu.be/DeumyOzKqgI?si=CpeQLWZKplnufKn4",
+    "No Lie" : "https://youtu.be/166tsC3RUcc?si=GmGjCU1KQrjjTYBs"
+
 }
